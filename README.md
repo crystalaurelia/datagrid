@@ -1,7 +1,8 @@
 # datagrid
 
-Reusable data grid component consisting of sortable headers and flexible columns.
 
-Numbers in grid align right, text aligns left.
+![DataTables](http://static1.squarespace.com/static/54b38888e4b089270ed78e04/t/56ce103be707eb67c53abb94/1456345176711/?format=2500w)
 
-Developers can specify parameters such as column widths, header, names, rows per page, and the data to display.
+## features
+
+
