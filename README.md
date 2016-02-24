@@ -4,10 +4,17 @@
 
 ## info
 
-Standalone reusable data grid component. Customizable for developers to specify: 
+Standalone reusable data grid component. Testpage contains a file input control for selecting the .json file to load into the grid.
+
+Customizable for developers to specify: 
 + column widths
 + column headers
 + data to populate
 + rows per page
 + trigger callback
 
+Component Provides:
++ table styling
++ paging (optional)
++ column sorting by ascending/decending order
++ table deletion
