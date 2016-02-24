@@ -1,9 +1,11 @@
 body {
 	font: 14px verdana, serif;
+	letter-spacing: 2px;
 }
 
 h1, h2 {
 	font-weight: normal;
+	letter-spacing: 3px;
 }
 
 h1 {
