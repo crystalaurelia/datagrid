@@ -19,7 +19,7 @@ thead td{
 }
 
 thead td:hover {
-	color: blue;
+	color: #3462ae;
 }
 
 tbody td {
@@ -43,7 +43,7 @@ table tbody tr:nth-child(even) {
 }
 
 .link:hover  {
-	color: blue;
+	color: #3462ae;
 	cursor: pointer;
 }
 
